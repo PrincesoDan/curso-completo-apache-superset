@@ -9,7 +9,7 @@ Paso 3: Crear un entorno virtual
 	virtualenv venv
 
 Paso 4: Activar el entorno virtual
-	venv\Scripts\activate
+	source venv/bin/activate
 
 Paso 5: Instalar Microsoft Visual C++ 14.0
 	https://visualstudio.microsoft.com/es/visual-cpp-build-tools/
